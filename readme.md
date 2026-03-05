@@ -133,18 +133,3 @@ Do **NOT** scan systems without proper authorization. Unauthorized scanning may 
 
 ---
 
-# 🔮 Future Improvements
-
-Possible upgrades:
-
-* Save scan results to **JSON / CSV**
-* Add **progress bar for scanning**
-* Implement **UDP scanning**
-* Add **OS fingerprinting**
-* Build a **GUI version**
-
----
-
-# 👨‍💻 Author
-
-Created as a beginner cybersecurity project to understand network scanning and reconnaissance techniques.
