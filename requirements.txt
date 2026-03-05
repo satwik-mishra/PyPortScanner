@@ -1,0 +1,3 @@
+# This is a standard Python file used to list external libraries this project needs.
+# When you download this project, you can install everything with one command instead of manually installing packages.
+colorama==0.4.6
